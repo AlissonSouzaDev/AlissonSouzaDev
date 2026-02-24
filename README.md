@@ -42,4 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
+<div>
+  <a href="https://github.com/AlissonSouzaDev">
+  <img height="180em" src="https://github-readme-stats-eight-tan-95.vercel.app/api?username=AlissonSouzaDev&show_icons=true&theme=buefy&include_all_commits=true&locale=pt-Br"/>
+  <img height="180em" src="https://github-readme-stats-eight-tan-95.vercel.app/api/top-langs/?username=AlissonSouzaDev&layout=compact&langs_count=7&theme=buefy&locale=pt-Br"/>
+ </a>
+</div>
+
 ###
